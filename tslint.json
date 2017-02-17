@@ -1,0 +1,13 @@
+{
+  "extends": "tslint:latest",
+  "rules": {
+    "arrow-return-shorthand": [true, "multiline"],
+    "import-spacing": [true],
+    "indent": [true, "spaces"],
+    "only-arrow-functions": [true, "allow-declarations"],
+    "ordered-imports": [true, {"import-sources-order": "any", "named-imports-order": "lowercase-last"}],
+    "quotemark": [true, "single"],
+    "trailing-comma": [true, {"multiline": "always", "singleline": "never"}],
+    "variable-name": [true, "ban-keywords", "check-format", "allow-leading-underscore", "allow-pascal-case"]
+  }
+}
