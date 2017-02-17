@@ -1,0 +1,12 @@
+{
+  "name": "tslint-config-hyperoslo",
+  "version": "0.1.0",
+  "description": "Hyper's tslint rules.",
+  "repository": "hyperoslo/tslint-config",
+  "main": "tslint.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sindre Moen <sindrenm@gmail.com>",
+  "license": "ISC"
+}
