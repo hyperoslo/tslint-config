@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-hyperoslo",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Hyper's tslint rules.",
   "repository": "hyperoslo/tslint-config",
   "main": "tslint.json",
