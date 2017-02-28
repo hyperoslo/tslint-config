@@ -6,7 +6,7 @@
     "indent": [true, "spaces"],
     "only-arrow-functions": [true, "allow-declarations"],
     "ordered-imports": [true, {"import-sources-order": "any", "named-imports-order": "lowercase-last"}],
-    "quotemark": [true, "single"],
+    "quotemark": [true, "single", "avoid-escape"],
     "trailing-comma": [true, {"multiline": "always", "singleline": "never"}],
     "variable-name": [true, "ban-keywords", "check-format", "allow-leading-underscore", "allow-pascal-case"]
   }
