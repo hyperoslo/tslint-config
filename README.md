@@ -1,4 +1,4 @@
-# tslint-config-hyperoslo
+# @hyperoslo/tslint-config
 
 Hyper's TSLint configuration, based on [tslint:latest].
 
@@ -11,20 +11,20 @@ Licensed under the **ISC** license, see LICENSE for more information.
 1. Install from [npm]. Make sure to also have [tslint] itself instaled:
 
    ```shell
-   npm install --save-dev tslint tslint-config-hyperoslo
+   npm install --save-dev tslint tslint-config
    ```
 
 2. Create tslint.json at the root of your project:
 
    ```json
    {
-     "extends": "tslint-config-hyperoslo"
+     "extends": "@hyperoslo/tslint-config"
    }
    ```
 
 3. Profit!
 
-[npm]: https://www.npmjs.com/package/tslint-config-hyperoslo
+[npm]: https://www.npmjs.com/package/tslint-config
 [tslint]: https://www.npmjs.com/package/tslint
 
 ## Credits
