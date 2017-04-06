@@ -4,6 +4,7 @@
     "arrow-return-shorthand": [true, "multiline"],
     "import-spacing": [true],
     "indent": [true, "spaces"],
+    "interface-name": [true, "never-prefix"],
     "only-arrow-functions": [true, "allow-declarations"],
     "ordered-imports": [true, {"import-sources-order": "any", "named-imports-order": "lowercase-last"}],
     "quotemark": [true, "single", "avoid-escape"],
